@@ -1,3 +1,8 @@
+//O(n) have to potentially search through all the elements in a list to find your value
+//O(1) to add/remove head or tail
+//Things in order, players for board games, dominos
+//For lower level languages, the data doesn't have to be stored together
+
 class LinkedList {
   constructor (){
     this.head = null
